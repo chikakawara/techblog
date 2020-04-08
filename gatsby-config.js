@@ -3,8 +3,8 @@ module.exports = {
     // edit below
     title: `Coder at Home`,
     author: `Chika`,
-    description: `A front-end engineer in Tokyo`,
-    siteUrl: `https://chikatechblog.netlify.com/blog/`,
+    description: `A front-end engineer lives and works in Tokyo`,
+    siteUrl: `https://chikatechblog.netlify.com/`,
     social: {
       twitter: `chikasweet`,
     },
