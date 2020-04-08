@@ -4,9 +4,9 @@ module.exports = {
     title: `Coder at Home`,
     author: `Chika`,
     description: `A front-end engineer in Tokyo`,
-    siteUrl: `https://github.com/chikakawara`,
+    siteUrl: `https://chikatechblog.netlify.com/blog/`,
     social: {
-      twitter: `chikasweets`,
+      twitter: `chikasweet`,
     },
   },
   plugins: [
